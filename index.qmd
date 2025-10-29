@@ -3,17 +3,30 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Antoniol__20240821-_A9_0515.jpg
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals
+
+My current goals are to obtain my PhD in Microbiology with a primary focus on wildlife conservation, ecology, and disease. My primary focuses are on genetic disease, impacts on the normal microbiome, and emerging diseases within various wildlife species. 
 
 ## Education
 
+**Undergraduate**
+I received my B.A. from Carroll College Helena MT in 2022. I double majored in Biochemistry and Molecular Biology (BMB) as well as Biology.
+
+**Graduate**
+I am currently a Microbiology PhD Graduate Student at the University of New Hampshire. I am within the College of Life Sciences (COLSA) and Agricultre and the department of Molecular, Cellular, and Biomedical Sciences (MCBS)
+
 ## Experience
 
+**Undergraduate Research**
+
+
+**Molecular Diagnostics**
+
+**Graduate Research**
 :::
 
 Thanks for checking out my web site!
