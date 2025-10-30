@@ -4,6 +4,12 @@ title: "Projects"
 
 ## Martha's Vineyard Deer
 
+Investigating the potential of a X-linked genetic disorder causing the death of young male deer on Martha's Vineyard. 
+
 ## Leptospira Diversity and Abundance in Fishers
 
+Investigating the number of Fishers infected with leptospira as well as the diversity of the leptospira. 
+
 ## Spatial and Diet Impacts on the Microbiota of New England Wild Canids
+
+Determining if diet composition alters the microbiome of wild caninds or if spatial differences cause a greater difference. 
