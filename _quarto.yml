@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - zebra.qmd
+      - bison.qmd
+      - lion.qmd
     tools:
       - icon: 
         href: 
