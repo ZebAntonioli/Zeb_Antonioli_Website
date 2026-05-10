@@ -12,6 +12,7 @@ website:
       - zebra.qmd
       - bison.qmd
       - lion.qmd
+      - baboon.qmd
     tools:
       - icon: 
         href: 
